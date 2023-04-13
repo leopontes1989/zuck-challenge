@@ -6,6 +6,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0 80px;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -17,7 +18,7 @@ h1 {
 .screenshot{
     width: 600px;
     padding: 20px;
-    margin-left: 25%;
+
 
 }
 
@@ -35,5 +36,4 @@ p {
 
 .diversidade {
     width: 100px;
-    margin-left: 45%;
 }
